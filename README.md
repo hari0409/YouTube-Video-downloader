@@ -29,13 +29,13 @@ Which depends on the video you download
 Now the video wold have been stored in your given location  
 By default the audio is deleted but you can also save it by un-commenting these lines  
 ![image](https://user-images.githubusercontent.com/73524123/118357229-a4d3d500-b596-11eb-99e1-b435b8e98f37.png)  
-You can also chab=nge the audio format here  
+You can also change the audio format here  
 ![image](https://user-images.githubusercontent.com/73524123/118357244-c2a13a00-b596-11eb-97e0-00d73cc004ba.png)  
 ##NOTE:  
 You must have already downloaded ffmpeg and must have add it as an environmental variable  
-FFMPEG help in merging the audio with video cuz of DASH delivering system of YouTube  
-->Know More : <https://developers.google.com/youtube/v3/live/guides/encoding-with-dash>  
-Download FFMPEG from <https://github.com/BtbN/FFmpeg-Builds/releases>  
+FFMPEG help in merging the audio with video cuz of DASH delivering system of YouTube   
+->Know More : [DASH](https://developers.google.com/youtube/v3/live/guides/encoding-with-dash)  
+Download FFMPEG from [FFMPEG](https://github.com/BtbN/FFmpeg-Builds/releases)  
 The below version or any updated one.  
 ![image](https://user-images.githubusercontent.com/73524123/118357385-815d5a00-b597-11eb-833c-3b2bccad4b51.png)  
 Thank You....✌✌  
