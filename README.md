@@ -31,7 +31,7 @@ By default the audio is deleted but you can also save it by un-commenting these 
 ![image](https://user-images.githubusercontent.com/73524123/118357229-a4d3d500-b596-11eb-99e1-b435b8e98f37.png)  
 You can also change the audio format here  
 ![image](https://user-images.githubusercontent.com/73524123/118357244-c2a13a00-b596-11eb-97e0-00d73cc004ba.png)  
-##NOTE:  
+#NOTE:  
 You must have already downloaded ffmpeg and must have add it as an environmental variable  
 FFMPEG help in merging the audio with video cuz of DASH delivering system of YouTube   
 ->Know More : [DASH](https://developers.google.com/youtube/v3/live/guides/encoding-with-dash)  
