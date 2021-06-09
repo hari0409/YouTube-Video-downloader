@@ -33,6 +33,7 @@ You can also change the audio format here
 ![image](https://user-images.githubusercontent.com/73524123/118357244-c2a13a00-b596-11eb-97e0-00d73cc004ba.png)  
 # NOTE:  
 You must have already downloaded ffmpeg and must have add it as an environmental variable  
+Also if sometime it gets you a 404 error,then its the problem with pytube as google would have updated YouTube condition to not to download videos from YouTube.So, wait for pytube to resolve it. 
 FFMPEG help in merging the audio with video cuz of DASH delivering system of YouTube   
 ->Know More : [DASH](https://developers.google.com/youtube/v3/live/guides/encoding-with-dash)  
 Download FFMPEG from [FFMPEG](https://github.com/BtbN/FFmpeg-Builds/releases)  
